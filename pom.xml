@@ -26,5 +26,15 @@
       <version>1.18.24</version>
       <scope>compile</scope>
     </dependency>
+    <dependency>
+      <groupId>org.apache.derby</groupId>
+      <artifactId>derby</artifactId>
+      <version>10.10.1.1</version>
+    </dependency>
+    <dependency>
+      <groupId>org.apache.maven.surefire</groupId>
+      <artifactId>maven-surefire-common</artifactId>
+      <version>3.0.0-M4</version>
+    </dependency>
   </dependencies>
 </project>
